@@ -1,0 +1,51 @@
+﻿cve_aduana,tipo_aduana,entidad_federativa,nombre_aduana,latitud_y,longitud_x
+1,Marítima,Guerrero,Acapulco,16.84864,-99.90517
+2,Fronteriza,Sonora,Agua Prieta,31.3337,-109.56082
+73,Interior,Aguascalientes,Aguascalientes,22.00755,-102.25071
+47,Interior,Ciudad de México,AICM,19.44654,-99.07066
+85,Interior,Estado de México,AIFA,19.75307,-99.00563
+81,Marítima,Tamaulipas,Altamira,22.44653,-97.88769
+53,Marítima,Quintana Roo,Cancún,21.03809,-86.87177
+44,Fronteriza,Coahuila,Cd. Acuña,29.32513,-100.93057
+82,Fronteriza,Tamaulipas,Cd. Camargo,26.36251,-98.80646
+6,Marítima,Campeche,Cd. Del Carmen,18.6507,-91.84
+37,Fronteriza,Chiapas,Cd. Hidalgo,14.67918,-92.15268
+7,Fronteriza,Chihuahua,Cd. Juárez,31.76268,-106.45177
+34,Fronteriza,Tamaulipas,Cd. Miguel A.,26.40302,-99.02109
+30,Fronteriza,Tamaulipas,Cd. Reynosa,26.04226,-98.20994
+67,Interior,Chihuahua,Chihuahua,28.71364,-106.10076
+8,Marítima,Veracruz,Coatzacoalcos,18.13133,-94.42017
+80,Fronteriza,Nuevo León,Colombia,27.698,-99.7491
+83,Marítima,Tabasco,Dos Bocas,18.43255,-93.19933
+11,Marítima,Baja California,Ensenada,31.85859,-116.63282
+48,Interior,Jalisco,Guadalajara,20.5254,-103.29618
+84,Interior,Guanajuato,Guanajuato,21.00885,-101.50974
+12,Marítima,Sonora,Guaymas,27.92423,-110.8865
+14,Marítima,Baja California Sur,La Paz,24.07421,-110.36723
+51,Marítima,Michoacán,Lázaro C.,17.98197,-102.17907
+16,Marítima,Colima,Manzanillo,19.07409,-104.28697
+17,Fronteriza,Tamaulipas,Matamoros,25.87221,-97.47568
+18,Marítima,Sinaloa,Mazatlán,23.20063,-106.41307
+19,Fronteriza,Baja California,Mexicali,32.67057,-115.38733
+20,Interior,Ciudad de México,México,19.46817,-99.16151
+52,Interior,Nuevo León,Monterrey,25.807,-100.29564
+22,Fronteriza,Sonora,Naco,31.32603,-109.947
+23,Fronteriza,Sonora,Nogales,31.33241,-110.94311
+24,Fronteriza,Tamaulipas,Nuevo Laredo,27.59538,-99.54491
+25,Fronteriza,Chihuahua,Ojinaga,29.55985,-104.39664
+27,Fronteriza,Coahuila,Piedras Negras,28.69732,-100.51608
+28,Marítima,Yucatán,Progreso,21.30398,-89.66645
+75,Interior,Puebla,Puebla,19.07232,-98.16064
+26,Fronteriza,Chihuahua,Puerto Palomas,31.78318,-107.62869
+64,Interior,Querétaro,Querétaro,20.62792,-100.19405
+31,Marítima,Oaxaca,Salina Cruz,16.171,-95.19008
+33,Fronteriza,Sonora,SLRC,32.48388,-114.78057
+50,Fronteriza,Sonora,Sonoyta,31.63603,-112.80829
+5,Fronteriza,Quintana Roo,Subte. López,18.49097,-88.38474
+38,Marítima,Tamaulipas,Tampico,22.21269,-97.8567
+39,Fronteriza,Baja California,Tecate,32.57587,-116.62755
+40,Fronteriza,Baja California,Tijuana,32.54699,-116.93925
+65,Interior,Estado de México,Toluca,19.31832,-99.56479
+46,Interior,Coahuila,Torreón,25.47197,-103.37018
+42,Marítima,Veracruz,Tuxpan,20.94818,-97.3457
+43,Marítima,Veracruz,Veracruz,19.2142,-96.15501
