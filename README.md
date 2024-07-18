@@ -1,0 +1,3 @@
+El presente repositorio tienen por objetivo ser una breve introducción a la visualización de datos y datos geoespaciales mediante el uso de las librerías Matplotlib, Seaborn y Folium de Python, los temas que se cubren responden a las tareas más comunes de visualización y exploración de los datos. Los apartados que se desarrollan son los siguientes: ¿Qué es la visualización?, ¿Qué es Matplotlib, Seaborn y Folium?, Preparación de los datos, Primeros pasos con Matplotlib, Seaborn y Folium. 
+
+Deseo que el presente repositorio sea de utilidad para quienes se inician en el uso de estas herramientas tecnológicas.
